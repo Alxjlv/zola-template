@@ -3,6 +3,14 @@ body {
     height: 100vh;
 }
 
+p {
+    color: white;
+}
+
+.copyright {
+    color: white;
+}
+
 header {
     width: 80vw;
     margin: auto;
